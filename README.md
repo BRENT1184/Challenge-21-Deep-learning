@@ -1,4 +1,4 @@
-# Deep Learning Project: Charity Funding Predictor
+# Deep Learning Challenge: Alphabet Applicant Success Prediction
 
 ## Background
 
